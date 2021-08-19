@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning everything 🤣
 - ✍️ I'm looking to starting writing a blog.
-- 🥅 2021 Goals: Getting a job as a full stack developer
 - ⚡ Fun fact: I love to watch stand up comedy.
 
 ---
