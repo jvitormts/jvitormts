@@ -2,7 +2,7 @@
 
 
 [![personalsite](https://img.shields.io/website?label=jvmartins.tech&style=for-the-badge&url=https://jvmartins.tech/)](https://jvmartins.tech/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ojvtmartins?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/jvsmartins&screen_name=ojvtmartins)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ojvsmartins?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/jvsmartins&screen_name=ojvtmartins)
 
 ## I'm a coffee lover, guitarist beginner and developer !
 
