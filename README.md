@@ -2,7 +2,7 @@
 
 
 [![personalsite](https://img.shields.io/website?label=jvmartins.tech&style=for-the-badge&url=https://jvmartins.tech/)](https://jvmartins.tech/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ojvsmartins?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/jvsmartins&screen_name=ojvtmartins)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jvitormts?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/jvitormts&screen_name=ojvtmartins)
 
 ## I'm a coffee lover, guitarist beginner and developer !
 
@@ -13,22 +13,22 @@
 ---
 
  <div>
-  <a href="https://github.com/jvsmartins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvsmartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsmartins&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/jvitormts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvitormts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitormts&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   
 ### Languages and Tools:
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="jvsmartins-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jvsmartins-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="jvsmartins-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jvsmartins-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="jvsmartins-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-   <img align="center" alt="jvsmartins-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-   <img align="center" alt="jvsmartins-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="jvitormts-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="jvitormts-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="jvitormts-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="jvitormts-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="jvitormts-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+   <img align="center" alt="jvitormts-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+   <img align="center" alt="jvitormts-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
   
 ---
